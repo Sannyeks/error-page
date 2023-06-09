@@ -30,8 +30,9 @@ body {
   right: 0;
   bottom: 0;
   position: absolute;
+  height: 27vmin;
   background: url('https://assets.codepen.io/1538474/mars.svg') no-repeat bottom center;
-  box-sizing: cover;
+  background-size: cover;
 }
 
 .logo-404 {
